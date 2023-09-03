@@ -4,10 +4,10 @@
 
 i'm a student from Brazil and i would like to share my evolution in the area of programming. </br> You will also find links to other networks where there is more content!   
 
-[![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/renan-marques-dev/)
+[![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/carlos-daniel-coutinho-santos-074066269/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielCoutinh0=github_dark)
-  **Languages and Tools That I Study At The Moment**
+  **Languages and Tools That I Study At The Moment:**
 <div align="center">
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
