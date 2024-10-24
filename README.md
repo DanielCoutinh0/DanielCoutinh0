@@ -15,7 +15,7 @@ i'm a student from Brazil and i would like to share my evolution in the area of 
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"/>
   
 </br>
-<img src="https://img.icons8.com/color/48/4a90e2/linux.png" alt="LINUX" title="LINUX" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/4a90e2/linux.png" alt="Linux" title="Linux" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/4a90e2/windows-10.png" alt="Windows" title="Windows" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/4a90e2/docker.png" alt="Docker" title="Docker" width="40" height="40"/>
 ...
