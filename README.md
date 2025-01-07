@@ -8,8 +8,9 @@ You'll also find links to my other networks, where I share even more content!
 [![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/carlos-daniel-coutinho-santos-074066269/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=coutinhodevcloud.tech@gmail.com)](coutinhodevcloud.tech@gmail.com)
 
-<img src="https://github.com/user-attachments/assets/7b387e7d-f027-4252-b36b-46adfb1914d1" alt="Introduction Banner" style="text-align: center; "/>
+<img src="https://github.com/user-attachments/assets/e7c4d76f-3249-4f98-b96f-db89254a5a9a" alt="Introduction Banner" style="text-align: center; "/>
 
+</br>
 
 ## ⚡ Technologies
 
@@ -37,11 +38,19 @@ You'll also find links to my other networks, where I share even more content!
 
 </div> 
 </div>
+</br>
 
-##
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 -   :video_game: I am working as **DevOps and Cloud Intern**
 -   :monocle_face: Interested in everything **Cloud**
 -   :seedling: Currently learning **AWS**
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds..
+-   🎓 Higher Education, **Leonardo da Vinci University Center**
+
+</br>
+</br>
+
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (1986 ~ 2013) -</i></p>
