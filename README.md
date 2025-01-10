@@ -33,7 +33,6 @@ You'll also find links to my other networks, where I share even more content!
 <img src="https://img.icons8.com/?size=100&id=pKaVdzbCJGgA&format=png&color=000000" title="PHP" width="40" height="40"/>
 
 </br>
-<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="JAVASCRIPT" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=EoRYuY9CMBZV&format=png&color=000000" title="VUEJS" width="40" height="40"/>
 ...
   
