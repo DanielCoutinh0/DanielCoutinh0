@@ -7,10 +7,10 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — Uniasselvi
-- ☁️ Concluí o **Scholarship Program Compass UOL** — trilha AWS & DevSecOps (400h)
-- 🌱 Atualmente estudando para certificação **AWS Cloud Practitioner**
+- ☁️ Concluí o **Scholarship Program** — trilha AWS & DevSecOps
+- 🌱 Atualmente estudando para certificação **AWS**
 - 🔭 Todos os meus projetos práticos estão aqui no GitHub
-- 📍 Jacobina, Bahia — aberto a oportunidades **remotas**
+- 📍 Santaluz, Bahia — aberto a oportunidades **remotas**
 - 💬 Me pergunte sobre: **AWS, Docker, Kubernetes, Linux**
 
 ---
@@ -45,9 +45,9 @@
 
 <div align="center">
 
-![Carlos Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Carlos Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielCoutinh0&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoutinh0&&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -55,8 +55,8 @@
 
 ## 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-coutinh0/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielcsantosbt@gmail.com)
 
 ---
 
