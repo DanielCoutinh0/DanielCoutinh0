@@ -1,60 +1,65 @@
+# Olá, eu sou Carlos Daniel! 👋
+
+### ☁️ Cloud & DevOps Enthusiast | AWS | Kubernetes | Linux
+
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — Uniasselvi
+- ☁️ Concluí o **Scholarship Program Compass UOL** — trilha AWS & DevSecOps (400h)
+- 🌱 Atualmente estudando para certificação **AWS Cloud Practitioner**
+- 🔭 Todos os meus projetos práticos estão aqui no GitHub
+- 📍 Jacobina, Bahia — aberto a oportunidades **remotas**
+- 💬 Me pergunte sobre: **AWS, Docker, Kubernetes, Linux**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📜 Certificações
+
+| Certificação | Emissor | Ano |
+|---|---|---|
+| 🏆 AWS Cloud Quest: Cloud Practitioner (Badge) | Amazon Web Services | 2025 |
+| ☁️ Scholarship Program — AWS & DevSecOps (400h) | Compass UOL | 2025 |
+| 🐳 Kubernetes Hands-On: Deploy Microservices to AWS | Udemy | 2025 |
+| 🐧 Linux Completo + Servidores | Udemy | 2024 |
+| 🔁 Git e GitHub em 3 Dias + Projetos Reais | Udemy | 2024 |
+| 🔒 SRE – The Big Picture | Udemy | 2025 |
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  
-<h2> Hello There, I'm Daniel <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I'm Daniel Coutinho 😃, from Brazil, and I would like to share my journey and evolution here.</br>
-You'll also find links to my other networks, where I share even more content!
+![Carlos Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/carlos-daniel-coutinho-santos-074066269/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=coutinhodevcloud.tech@gmail.com)](coutinhodevcloud.tech@gmail.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://github.com/user-attachments/assets/e7c4d76f-3249-4f98-b96f-db89254a5a9a" alt="Introduction Banner" style="text-align: center; "/>
+</div>
 
-</br>
+---
 
-## ⚡ Technologies
+## 🤝 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+
+---
 
 <div align="center">
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
-<img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JS" title="JavaScript" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"/>
-  
-</br>
-<img src="https://img.icons8.com/color/48/4a90e2/linux.png" alt="Linux" title="Linux" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/4a90e2/windows-10.png" alt="Windows" title="Windows" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/4a90e2/docker.png" alt="Docker" title="Docker" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python" width="40" height="40"/>
-
-</br>
-<img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" title="Kubernetes" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" title="AWS" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000" title="MySQL" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=pKaVdzbCJGgA&format=png&color=000000" title="PHP" width="40" height="40"/>
-
-</br>
-<img src="https://img.icons8.com/?size=100&id=EoRYuY9CMBZV&format=png&color=000000" title="VUEJS" width="40" height="40"/>
-...
-  
+  <i>"Aprendendo todos os dias, um commit de cada vez."</i>
 </div>
-  
-<div align="right">
-
-</div> 
-</div>
-</br>
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
--   :video_game: I am working as **DevOps and Cloud Intern**
--   :monocle_face: Interested in everything **Cloud**
--   :seedling: Currently learning **AWS**
--   :heart: Open Source Software
--   :penguin: **Linux** ... it does infinite loops in 5 seconds..
--   🎓 Higher Education, **Leonardo da Vinci University Center**
-
-</br>
-</br>
-
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
-<p align="center"><i>- Aaron Swartz (1986 ~ 2013) -</i></p>
