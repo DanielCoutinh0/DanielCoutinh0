@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Daniel Coutinho! 👋
+# Daniel Coutinho 👋
 
 ### 🖥️ Analista de Suporte & Infraestrutura | Windows Server · AD · Linux · AWS
 ### 🚀 Em trilha ativa para DevOps
