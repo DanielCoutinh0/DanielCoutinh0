@@ -53,8 +53,8 @@
 > *Em construção — publicando projetos práticos de suporte e infraestrutura (troubleshooting documentado, scripts de automação de rotina, gestão de usuários/GPO em ambiente de testes) junto com meus projetos de Cloud/DevOps.*
 
 | Projeto | Descrição | Tecnologias |
-|---|---|---|
-| _(em breve)_ | | |
+|----------|-----------|-------------|
+| **[Infraestrutura Windows Lab](https://github.com/DanielCoutinh0/Infraestrutura-Windows-Lab)** | Laboratório que simula a infraestrutura de uma pequena empresa utilizando Windows Server e Windows 11. Inclui implantação de Active Directory, gerenciamento de usuários e grupos, GPO, compartilhamento de arquivos, permissões NTFS, troubleshooting com Event Viewer, documentação técnica e scripts em PowerShell. | Windows Server 2022, Windows 11, Active Directory, DNS, GPO, NTFS, PowerShell |
 
 ---
 
