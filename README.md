@@ -11,15 +11,9 @@
 
 ## 🎯 Sobre mim
 
-- 🧑‍💻 Buscando uma oportunidade como **Analista de Suporte Técnico / Infraestrutura**
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — Uniasselvi
-- ☁️ Concluí o **Scholarship Program** — trilha AWS & DevSecOps (Compass UOL, 400h)
 - 🐧 Base sólida em **Linux, redes, Active Directory, scripting e documentação técnica**
 - 🛠️ Atualmente estudando para certificação **AWS**
-- 🗂️ Todos os meus projetos práticos estão documentados no GitHub, com README detalhado
-- 🌱 Em paralelo, evoluindo minhas skills de **DevOps** (Terraform, Kubernetes, CI/CD) — meu objetivo de médio prazo
-- 📍 Santaluz, Bahia — aberto a oportunidades **remotas e presenciais**
-- 💬 Me pergunte sobre: Suporte técnico, AD/GPO, Linux, AWS, Docker, Kubernetes
+- 🌱 Em paralelo, evoluindo minhas skills de **DevOps** (Terraform, Kubernetes, CI/CD)
 
 ---
 
