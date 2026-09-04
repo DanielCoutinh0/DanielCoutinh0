@@ -1,9 +1,10 @@
 <div align="center">
 
-# Daniel Coutinho 👋
+# Daniel Coutinho
 
-### 🖥️ Analista de Suporte & Infraestrutura | Windows Server · AD · Linux · AWS
-### 🚀 Em trilha ativa para DevOps
+### ☁️ Cloud & Infrastructure | AWS | Linux | DevOps
+
+🚀 Carreira com foco em **Cloud Computing e AWS**
 
 </div>
 
@@ -11,40 +12,54 @@
 
 ## 🎯 Sobre mim
 
-- 🐧 Base sólida em **Linux, redes, Active Directory, scripting e documentação técnica**
-- 🛠️ Atualmente estudando para certificação **AWS**
-- 🌱 Em paralelo, evoluindo minhas skills de **DevOps** (Terraform, Kubernetes, CI/CD)
+Profissional de Tecnologia com experiência em **suporte e infraestrutura**, atualmente direcionando minha carreira para **Cloud Computing e AWS**.
+
+Possuo base em **Linux, Windows Server, redes, Active Directory, PowerShell e administração de ambientes**, além de formação intensiva de **400 horas em AWS e DevSecOps**, com desenvolvimento de projetos práticos utilizando serviços da AWS.
+
+Tenho estudado e desenvolvido projetos envolvendo **computação em nuvem, infraestrutura, containers, automação e boas práticas de DevOps**, buscando transformar conhecimentos teóricos em experiências práticas.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## ☁️ Cloud & AWS
 
-**Suporte & Infraestrutura**
+- AWS EC2
+- AWS S3
+- AWS Lambda
+- AWS RDS
+- AWS IAM
+- Cloud Computing
+- Infraestrutura em Cloud
+- Segurança e controle de acesso
+- Arquitetura básica de ambientes AWS
 
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C7D4?style=for-the-badge&logo=servicenow&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL-Foundation-orange?style=for-the-badge)
+## ⚙️ DevOps & Automação
 
-**Cloud & DevOps (em evolução)**
+- Docker
+- Kubernetes
+- Git
+- GitHub
+- Terraform
+- CI/CD
+- PowerShell
+- Python
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🖥️ Infraestrutura
+
+- Linux
+- Windows Server
+- Active Directory
+- DNS
+- GPO
+- NTFS
+- Redes
+- Troubleshooting
+- Documentação técnica
 
 ---
 
 ## 📌 Projetos em destaque
 
-> *Em construção — publicando projetos práticos de suporte e infraestrutura (troubleshooting documentado, scripts de automação de rotina, gestão de usuários/GPO em ambiente de testes) junto com meus projetos de Cloud/DevOps.*
+> Em desenvolvimento — projetos práticos voltados para **Cloud Computing e AWS**, explorando provisionamento de infraestrutura, gerenciamento de recursos, segurança, containers e automação.
 
 | Projeto | Descrição | Tecnologias |
 |----------|-----------|-------------|
@@ -52,16 +67,30 @@
 
 ---
 
-## 📜 Certificações
+## 📜 Certificações & Formação
 
-| Certificação | Emissor | Ano |
-|---|---|---|
-| 🏆 AWS Cloud Quest: Cloud Practitioner (Badge) | Amazon Web Services | 2025 |
-| ☁️ Scholarship Program — AWS & DevSecOps (400h) | Compass UOL | 2025 |
-| 🐳 Kubernetes Hands-On: Deploy Microservices to AWS | Udemy | 2025 |
-| 🐧 Linux Completo + Servidores | Udemy | 2024 |
-| 🔁 Git e GitHub em 3 Dias + Projetos Reais | Udemy | 2024 |
-| 🔒 SRE – The Big Picture | Udemy | 2025 |
+- 🏆 AWS Cloud Quest: Cloud Practitioner — AWS — 2025
+- ☁️ Scholarship Program — AWS & DevSecOps (400h) — Compass UOL — 2025
+- ☸️ Kubernetes Hands-On: Deploy Microservices to AWS — Udemy — 2025
+- 🐧 Linux Completo + Servidores — Udemy — 2024
+- 🔄 Git e GitHub em 3 Dias + Projetos Reais — Udemy — 2024
+- 📈 SRE — The Big Picture — Udemy — 2025
+
+---
+
+## 📈 Atualmente estudando
+
+☁️ **AWS / Cloud Computing**
+
+🏗️ **Terraform & Infrastructure as Code**
+
+🐳 **Docker & Kubernetes**
+
+🔄 **CI/CD**
+
+🔐 **DevSecOps**
+
+📊 **SRE & Observabilidade**
 
 ---
 
@@ -69,5 +98,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-coutinh0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielcsantosbt@gmail.com)
-
-</div>
