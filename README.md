@@ -10,16 +10,6 @@
 
 ---
 
-## 🎯 Sobre mim
-
-Profissional de Tecnologia com experiência em **suporte e infraestrutura**, atualmente direcionando minha carreira para **Cloud Computing e AWS**.
-
-Possuo base em **Linux, Windows Server, redes, Active Directory, PowerShell e administração de ambientes**, além de formação intensiva de **400 horas em AWS e DevSecOps**, com desenvolvimento de projetos práticos utilizando serviços da AWS.
-
-Tenho estudado e desenvolvido projetos envolvendo **computação em nuvem, infraestrutura, containers, automação e boas práticas de DevOps**, buscando transformar conhecimentos teóricos em experiências práticas.
-
----
-
 ## ☁️ Cloud & AWS
 
 - AWS EC2
@@ -59,9 +49,11 @@ Tenho estudado e desenvolvido projetos envolvendo **computação em nuvem, infra
 
 ## 📌 Projetos em destaque
 
-> Em desenvolvimento — projetos práticos voltados para **Cloud Computing e AWS**, explorando provisionamento de infraestrutura, gerenciamento de recursos, segurança, containers e automação.
-
 | Projeto | Descrição | Tecnologias |
+|----------|-----------|-------------|
+| **[AWS Cloud Migration](https://github.com/DanielCoutinh0/Desafio-Final-PB)** | Migração e modernização de infraestrutura on-premises para AWS, utilizando estratégia Lift and Shift e posteriormente Kubernetes. Implementação de rede, migração de servidores e banco de dados, segurança, monitoramento, CI/CD e infraestrutura como código. | AWS, EC2, VPC, RDS, S3, MGN, DMS, EKS, Terraform, Kubernetes, Helm, CloudWatch, WAF, IAM, CodePipeline |
+|----------|-----------|-------------|
+| **[WordPress AWS Infrastructure](https://github.com/DanielCoutinh0/Atividade-DevSecOps-Docker)** | Infraestrutura de alta disponibilidade para WordPress utilizando Docker e serviços AWS. Implementação de rede, segurança, banco de dados, armazenamento compartilhado, balanceamento de carga e Auto Scaling para garantir escalabilidade e resiliência. | AWS, Docker, EC2, VPC, RDS, EFS, Load Balancer, Auto Scaling, CloudWatch, Security Groups |
 |----------|-----------|-------------|
 | **[Infraestrutura Windows Lab](https://github.com/DanielCoutinh0/Infraestrutura-Windows-Lab)** | Laboratório que simula a infraestrutura de uma pequena empresa utilizando Windows Server e Windows 11. Inclui implantação de Active Directory, gerenciamento de usuários e grupos, GPO, compartilhamento de arquivos, permissões NTFS, troubleshooting com Event Viewer, documentação técnica e scripts em PowerShell. | Windows Server 2022, Windows 11, Active Directory, DNS, GPO, NTFS, PowerShell |
 
@@ -75,22 +67,6 @@ Tenho estudado e desenvolvido projetos envolvendo **computação em nuvem, infra
 - 🐧 Linux Completo + Servidores — Udemy — 2024
 - 🔄 Git e GitHub em 3 Dias + Projetos Reais — Udemy — 2024
 - 📈 SRE — The Big Picture — Udemy — 2025
-
----
-
-## 📈 Atualmente estudando
-
-☁️ **AWS / Cloud Computing**
-
-🏗️ **Terraform & Infrastructure as Code**
-
-🐳 **Docker & Kubernetes**
-
-🔄 **CI/CD**
-
-🔐 **DevSecOps**
-
-📊 **SRE & Observabilidade**
 
 ---
 
