@@ -4,13 +4,13 @@
 
 ### ☁️ Cloud & Infrastructure | AWS | Linux | DevOps
 
-🚀 Carreira com foco em **Cloud Computing e AWS**
+  Carreira com foco em **Cloud Computing e AWS**
 
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |----------|-----------|-------------|
@@ -22,7 +22,7 @@
 
 ---
 
-## ☁️ Cloud & AWS
+##  Cloud & AWS
 
 - AWS EC2
 - AWS S3
@@ -34,7 +34,7 @@
 - Segurança e controle de acesso
 - Arquitetura básica de ambientes AWS
 
-## ⚙️ DevOps & Automação
+##  DevOps & Automação
 
 - Docker
 - Kubernetes
@@ -45,7 +45,7 @@
 - PowerShell
 - Python
 
-## 🖥️ Infraestrutura
+##  Infraestrutura
 
 - Linux
 - Windows Server
@@ -59,18 +59,18 @@
 
 ---
 
-## 📜 Certificações & Formação
+##  Certificações & Formação
 
-- 🏆 AWS Cloud Quest: Cloud Practitioner — AWS — 2025
-- ☁️ Scholarship Program — AWS & DevSecOps (400h) — Compass UOL — 2025
-- ☸️ Kubernetes Hands-On: Deploy Microservices to AWS — Udemy — 2025
-- 🐧 Linux Completo + Servidores — Udemy — 2024
-- 🔄 Git e GitHub em 3 Dias + Projetos Reais — Udemy — 2024
-- 📈 SRE — The Big Picture — Udemy — 2025
+-  AWS Cloud Quest: Cloud Practitioner — AWS — 2025
+-  Scholarship Program — AWS & DevSecOps (400h) — Compass UOL — 2025
+-  Kubernetes Hands-On: Deploy Microservices to AWS — Udemy — 2025
+-  Linux Completo + Servidores — Udemy — 2024
+-  Git e GitHub em 3 Dias + Projetos Reais — Udemy — 2024
+-  SRE — The Big Picture — Udemy — 2025
 
 ---
 
-## 📫 Contato
+##  Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-coutinh0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielcsantosbt@gmail.com)
