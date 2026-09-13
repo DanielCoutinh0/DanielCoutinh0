@@ -10,6 +10,18 @@
 
 ---
 
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|-----------|-------------|
+| **[AWS Cloud Migration](https://github.com/DanielCoutinh0/Desafio-Final-PB)** | Migração e modernização de infraestrutura on-premises para AWS, utilizando estratégia Lift and Shift e posteriormente Kubernetes. Implementação de rede, migração de servidores e banco de dados, segurança, monitoramento, CI/CD e infraestrutura como código. | AWS, EC2, VPC, RDS, S3, MGN, DMS, EKS, Terraform, Kubernetes, Helm, CloudWatch, WAF, IAM, CodePipeline |
+|----------|-----------|-------------|
+| **[WordPress AWS Infrastructure](https://github.com/DanielCoutinh0/Atividade-DevSecOps-Docker)** | Infraestrutura de alta disponibilidade para WordPress utilizando Docker e serviços AWS. Implementação de rede, segurança, banco de dados, armazenamento compartilhado, balanceamento de carga e Auto Scaling para garantir escalabilidade e resiliência. | AWS, Docker, EC2, VPC, RDS, EFS, Load Balancer, Auto Scaling, CloudWatch, Security Groups |
+|----------|-----------|-------------|
+| **[Infraestrutura Windows Lab](https://github.com/DanielCoutinh0/Infraestrutura-Windows-Lab)** | Laboratório que simula a infraestrutura de uma pequena empresa utilizando Windows Server e Windows 11. Inclui implantação de Active Directory, gerenciamento de usuários e grupos, GPO, compartilhamento de arquivos, permissões NTFS, troubleshooting com Event Viewer, documentação técnica e scripts em PowerShell. | Windows Server 2022, Windows 11, Active Directory, DNS, GPO, NTFS, PowerShell |
+
+---
+
 ## ☁️ Cloud & AWS
 
 - AWS EC2
@@ -44,18 +56,6 @@
 - Redes
 - Troubleshooting
 - Documentação técnica
-
----
-
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|----------|-----------|-------------|
-| **[AWS Cloud Migration](https://github.com/DanielCoutinh0/Desafio-Final-PB)** | Migração e modernização de infraestrutura on-premises para AWS, utilizando estratégia Lift and Shift e posteriormente Kubernetes. Implementação de rede, migração de servidores e banco de dados, segurança, monitoramento, CI/CD e infraestrutura como código. | AWS, EC2, VPC, RDS, S3, MGN, DMS, EKS, Terraform, Kubernetes, Helm, CloudWatch, WAF, IAM, CodePipeline |
-|----------|-----------|-------------|
-| **[WordPress AWS Infrastructure](https://github.com/DanielCoutinh0/Atividade-DevSecOps-Docker)** | Infraestrutura de alta disponibilidade para WordPress utilizando Docker e serviços AWS. Implementação de rede, segurança, banco de dados, armazenamento compartilhado, balanceamento de carga e Auto Scaling para garantir escalabilidade e resiliência. | AWS, Docker, EC2, VPC, RDS, EFS, Load Balancer, Auto Scaling, CloudWatch, Security Groups |
-|----------|-----------|-------------|
-| **[Infraestrutura Windows Lab](https://github.com/DanielCoutinh0/Infraestrutura-Windows-Lab)** | Laboratório que simula a infraestrutura de uma pequena empresa utilizando Windows Server e Windows 11. Inclui implantação de Active Directory, gerenciamento de usuários e grupos, GPO, compartilhamento de arquivos, permissões NTFS, troubleshooting com Event Viewer, documentação técnica e scripts em PowerShell. | Windows Server 2022, Windows 11, Active Directory, DNS, GPO, NTFS, PowerShell |
 
 ---
 
